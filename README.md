@@ -32,4 +32,4 @@ resistances = [4.5, 10.2, 5.0, 3.8, 8.9]
 min_resistance = 4.0  
 max_resistance = 10.0  
 result = detect_faults(resistances, min_resistance, max_resistance)  
-print(result)  
+print(result) 
